@@ -50,7 +50,7 @@ ai-doc-analyzer/
 ├── requirements.txt         # المكتبات والاعتماديات المطلوبة لتشغيل المشروع
 └── README.md                # دليل توثيق المشروع (هذا الملف)
 
-
+```
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2fa3923d-d40b-4361-9b10-f99f73118fce" />
 
