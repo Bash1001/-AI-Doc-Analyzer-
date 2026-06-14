@@ -66,3 +66,10 @@ ai-doc-analyzer/
 1. استنساخ المشروع (Clone the Repository)
 git clone [https://github.com/Bash1001/ai-doc-analyzer.git](https://github.com/Bash1001/ai-doc-analyzer.git)
 cd ai-doc-analyzer
+
+2. تفعيل البيئة الوهمية وتثبيت المكتبات
+# تفعيل البيئة الوهمية على ويندوز
+venv\Scripts\activate
+
+# تثبيت المكتبات المطلوبة
+pip install -r requirements.txt
