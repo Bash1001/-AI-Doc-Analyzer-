@@ -52,10 +52,17 @@ ai-doc-analyzer/
 
 ```
 
+
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2fa3923d-d40b-4361-9b10-f99f73118fce" />
+
+
+
+
 
 
 ⚙️ طريقة التشغيل والتثبيت المحلية (Installation & Setup)
 1. استنساخ المشروع (Clone the Repository)
-git clone [https://github.com/YOUR_USERNAME/ai-doc-analyzer.git](https://github.com/YOUR_USERNAME/ai-doc-analyzer.git)
+git clone [https://github.com/YOUR_USERNAME/ai-doc-analyzer.git](https://github.com/Bash1001/ai-doc-analyzer.git)
 cd ai-doc-analyzer
