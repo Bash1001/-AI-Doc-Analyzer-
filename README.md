@@ -67,9 +67,20 @@ ai-doc-analyzer/
 git clone [https://github.com/Bash1001/ai-doc-analyzer.git](https://github.com/Bash1001/ai-doc-analyzer.git)
 cd ai-doc-analyzer
 
-2. تفعيل البيئة الوهمية وتثبيت المكتبات
+
+
+3. تفعيل البيئة الوهمية وتثبيت المكتبات
 # تفعيل البيئة الوهمية على ويندوز
 venv\Scripts\activate
 
+
 # تثبيت المكتبات المطلوبة
 pip install -r requirements.txt
+
+
+3. تشغيل السيرفر (Run the Application)****
+
+uvicorn app.main:app --reload
+
+
+بعد التشغيل، افتح المتصفح وتوجه إلى الرابط الرئيسي: http://127.0.0.1:8000/
