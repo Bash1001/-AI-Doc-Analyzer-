@@ -64,5 +64,5 @@ ai-doc-analyzer/
 
 ⚙️ طريقة التشغيل والتثبيت المحلية (Installation & Setup)
 1. استنساخ المشروع (Clone the Repository)
-git clone [https://github.com/YOUR_USERNAME/ai-doc-analyzer.git](https://github.com/Bash1001/ai-doc-analyzer.git)
+git clone [https://github.com/Bash1001/ai-doc-analyzer.git](https://github.com/Bash1001/ai-doc-analyzer.git)
 cd ai-doc-analyzer
